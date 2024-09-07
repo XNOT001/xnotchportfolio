@@ -1,45 +1,37 @@
-import { faGithub, faMedium, faYoutube } from "@fortawesome/free-brands-svg-icons";
+import { faYoutube } from "@fortawesome/free-brands-svg-icons";
 import picExp from '../assets/xnot1.png'
-import picLittleLemon from '../assets/littlelemon.png'
+import picLittleLemon from '../assets/xnot45.PNG'
 
 export const data = [
     {        
-        title: "ดีงับ",
+        title: "รับตัดต่อคลิป VDO",
         link: "https://www.youtube.com/@XNOTXD",
         materials: [
             { type: faYoutube, link: "https://www.youtube.com/@XNOTXD" },
         ],
         descriptions: [
-            "Designing and developing a sports data analysis system that scrapes data from various sports websites, processes it, and presents different profit-making possibilities in real-time for customers.",
-            "Create tools for monitoring the backend and implementing self-recovery mechanisms, ensuring their seamless operation 24/7.",
+            "คลิป300-400บาท",
+            "โปรแกรมที่ใช้คือ adobe premiere pro,adobe photoshop,",
         ],
         skills: [
-            ["React", "Redus", "MUI"],
-            ["NginX", "NodeJS", "Express", "MongoDB"],
+            ["แนวเกม", "แนวท่องเที่ยว", "แนวละครสั้น"],
+            ["Tiktok", "Youtube",],
         ],
         picture: picExp,
     },
     {
-        title: "Fashion Ecommerce",
+        title: "Tiktok",
         link: "https://www.youtube.com/@XNOTXD",
         materials: [
             { type: faYoutube, link: "https://www.youtube.com/@XNOTXD" },
         ],
         descriptions: [
-            "Designing and developing a sports data analysis system that scrapes data from various sports websites, processes it, and presents different profit-making possibilities in real-time for customers.",
+            "มีช่อง Tiktok 2 ช่อง",
+            "มีช่อง Tiktok  ช่องgame",
+            "มีช่อง Tiktok  ช่องsell products online",
         ],
         skills: [
-            ["NginX", "NodeJS", "Express", "MongoDB"],
-        ],
-        picture: picLittleLemon,
-    },
-    {
-        title: "Fashion Ecommerce",
-        descriptions: [
-            "Designing and developing a sports data analysis system that scrapes data from various sports websites, processes it, and presents different profit-making possibilities in real-time for customers.",
-        ],
-        skills: [
-            ["NginX", "NodeJS", "Express", "MongoDB"],
+            ["คลิปตลก", "สาระ", "ความรู้", "ขายของ"],
         ],
         picture: picLittleLemon,
     },

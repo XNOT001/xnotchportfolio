@@ -1,22 +1,20 @@
-import { faGithub, faMedium, faYoutube } from "@fortawesome/free-brands-svg-icons";
-import picExp from '../assets/exp_site.png'
-import picLittleLemon from '../assets/littlelemon.png'
+import {  faYoutube } from "@fortawesome/free-brands-svg-icons";
+import picExp from '../assets/xnot2.png'
 
 export const data = [
     {
-        title: "รับตัดต่อคลิป VDO",
-        materials: [
-            
+        title: "ประสบการณ์",
+        materials: [            
             { type: faYoutube, link: "https://www.youtube.com/@XNOTXD/videos" },
             
         ],
         descriptions: [
-            "ตัดคลิปแนวเกมลง Youtude สามารถตัดได้ทุกแบบ หรือจะเป็นแบบอื่นๆ",
-            "คลิปสั้น Tiktok 30 วินาที 1นาที แนวขายของ ",
+            "คอนเท้น ครีเอเตอร์ แอพ UG GAME ทำงานอยู่ 6 เดือน",
+            "ทำงานYoutube ทำคลิปเกี่ยวกับเกม ให้ความรู้และความสนุก",
         ],
         skills: [
-            ["ตัดแนวเล่าเรื่อง", "แนวทำอาหาร", "หนังสั้น"],
-            ["แนวตลก", "แนวท่องเที่ยว",],
+            ["พูดเก่ง", "กล้าแสดงออก", "มีความคิดสร้างสรรค์"],
         ],
+        picture: picExp,
     },   
 ];        
