@@ -21,7 +21,7 @@ export const data = [
     },
     {
         title: "Tiktok",
-        link: "https://www.youtube.com/@XNOTXD",
+        link: "www.tiktok.com/@xnotch01",
         materials: [
             { type: faYoutube, link: "https://www.youtube.com/@XNOTXD" },
         ],
